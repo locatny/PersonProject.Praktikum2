@@ -118,3 +118,17 @@ Jenis Kelamin: Laki-laki
 Umur: 35
 
 ![](HasilOutput.png)
+
+# Penjelasan Code:
+# Person.java:
+*Class Person memiliki tiga atribut:*
+    (nama, jenisKelamin, dan umur, semuanya private.)
+*Terdapat constructor, setter, dan getter untuk setiap atribut.*
+*Method displayInfo() digunakan untuk menampilkan informasi dari object Person.*
+
+# Main.java:
+*Membuat dua object anton dan riko dari class Person.*
+*Menampilkan tabel struktur kelas Person.*
+*Memanggil method displayInfo() untuk mencetak informasi dari masing-masing object.*
+
+

@@ -1,4 +1,3 @@
-
 # Person.Java
 
 public class Person {
@@ -52,6 +51,9 @@ public class Person {
     }
 }
 
+![](Person1Java.png)
+![](Person2Java.png)
+
 # Main.Java
 
 public class Main {
@@ -86,6 +88,8 @@ public class Main {
     }
 }
 
+![](MainJava.png)
+
 # HasilOutput
 
 +--------------------+----------------+
@@ -113,3 +117,4 @@ Nama: Riko
 Jenis Kelamin: Laki-laki
 Umur: 35
 
+![](HasilOutput.png)
